@@ -7,20 +7,20 @@ The main goal of this project is to get familiar with the reinforcement learning
 
 Course Topics:
 
-● Artificial Intelligence: historical definition, brief overview, modern definition and current role of machine and deep learning. \n
-● Overview of fundamental knowledge of probability.
-● Generative and discriminative methods.
-● Perceptron. - Artificial Neural Networks.
-● Support Vector Machines.
-● Kernel functions.
-● Active learning.
-● Convolutional Neural Networks.
-● Stochastic Gradiant Descent.
-● Batch Normalization.
-● Generative Adversarial Networks.
-● Recurrent Neural Networks.
-● Learning theory.
-● Data bias.
+● Artificial Intelligence: historical definition, brief overview, modern definition and current role of machine and deep learning.  
+● Overview of fundamental knowledge of probability.  
+● Generative and discriminative methods.  
+● Perceptron. - Artificial Neural Networks.  
+● Support Vector Machines.  
+● Kernel functions.  
+● Active learning.  
+● Convolutional Neural Networks.  
+● Stochastic Gradiant Descent.  
+● Batch Normalization.  
+● Generative Adversarial Networks.  
+● Recurrent Neural Networks.  
+● Learning theory.  
+● Data bias.  
 
 
 Technologies adopted: `Tensorflow`, `Pytorch`, `Keras`
