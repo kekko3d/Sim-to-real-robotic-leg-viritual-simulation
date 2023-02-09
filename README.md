@@ -5,14 +5,34 @@ This is the implementation of **project 5 - Sim-to-Real transfer of Reinforcemen
 The main goal of this project is to get familiar with the reinforcement learning paradigm in the context of robotic systems. In particular, the work is based on sim-to-real transfer tasks, leveraging a physics simulator to model the real setup in order to safely train a Reinforcement Learning agent before deploying it on the real-world environment. In addition, it is implemented a uniform domain randomization of dynamics parameters (e.g. masses, friction coefficients), a popular SOTA strategy to learn robust policies that transfer well to the target domain.
 
 
+Course Topics:
+
+● Artificial Intelligence: historical definition, brief overview, modern definition and current role of machine and deep learning.
+● Overview of fundamental knowledge of probability.
+● Generative and discriminative methods.
+● Perceptron. - Artificial Neural Networks.
+● Support Vector Machines.
+● Kernel functions.
+● Active learning.
+● Convolutional Neural Networks.
+● Stochastic Gradiant Descent.
+● Batch Normalization.
+● Generative Adversarial Networks.
+● Recurrent Neural Networks.
+● Learning theory.
+● Data bias.
+
+
+
+A.Y. 2021/22
+
+All credits to the professor of the course Barbara Caputo, and the TAs.
 
 
 
 
 
-
-
-
+##[map to the code]#]
 
 Each directory contains the implementation of a different algorithm.
 
