@@ -36,6 +36,8 @@ Course Topics:
 ● Data bias.
 
 
+Technologies adopted: Tensorflow, Pytorch, Keras
+
 
 A.Y. 2021/22
 
