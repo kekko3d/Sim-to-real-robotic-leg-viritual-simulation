@@ -7,7 +7,7 @@ The main goal of this project is to get familiar with the reinforcement learning
 
 Course Topics:
 
-● Artificial Intelligence: historical definition, brief overview, modern definition and current role of machine and deep learning.
+● Artificial Intelligence: historical definition, brief overview, modern definition and current role of machine and deep learning. \
 ● Overview of fundamental knowledge of probability.
 ● Generative and discriminative methods.
 ● Perceptron. - Artificial Neural Networks.
