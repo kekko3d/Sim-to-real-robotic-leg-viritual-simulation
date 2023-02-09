@@ -2,7 +2,7 @@
 
 This is the implementation of **project 5 - Sim-to-Real transfer of Reinforcement Learning policies in robotics** by group 4 (Feraud Elisa, Fanigliulo Sofia, Grandi Francesco) for the *Machine Learning and Deep Learning* course (a.a. 2021/2022).
 
-Each directory contains the implementation of a different algorithm as requested.
+Each directory contains the implementation of a different algorithm.
 
 ### Reinforce
 * `agent_reinforce.py` contains the implementation of the agent and policy classes to use to train the policy with the *REINFORCE* algorithm.
