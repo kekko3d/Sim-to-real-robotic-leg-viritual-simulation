@@ -1,3 +1,5 @@
+# ***Machine Learning and Deep Learning***
+
 This is the implementation of **project 5 - Sim-to-Real transfer of Reinforcement Learning policies in robotics** by group 4 for the course **[Machine Learning and Deep Learning](https://didattica.polito.it/pls/portal30/gap.pkg_guide.viewGap?p_cod_ins=01TXFSM&p_a_acc=2021&p_header=S&p_lang=IT)**.
 
 The main goal of this project is to get familiar with the reinforcement learning paradigm in the context of robotic systems. In particular, the work is based on sim-to-real transfer tasks, leveraging a physics simulator to model the real setup in order to safely train a Reinforcement Learning agent before deploying it on the real-world environment. In addition, it is implemented a uniform domain randomization of dynamics parameters (e.g. masses, friction coefficients), a popular SOTA strategy to learn robust policies that transfer well to the target domain.
@@ -30,7 +32,12 @@ All credits to the professor of the course Barbara Caputo, and the TAs.
 
 
 
-## map to the code ##
+
+
+
+
+
+## map to the code
 
 Each directory contains the implementation of a different algorithm.
 
