@@ -52,7 +52,7 @@ All credits to the professor of the course Barbara Caputo, and the TAs.
 
 
 
-## map to the code
+## Map to the code
 
 Each directory contains the implementation of a different algorithm.
 
