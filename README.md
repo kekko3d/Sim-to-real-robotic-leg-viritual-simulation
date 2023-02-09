@@ -1,6 +1,18 @@
-# project5group4
+#Sim-to-real-robotic-leg-viritual-simulation
 
-This is the implementation of **project 5 - Sim-to-Real transfer of Reinforcement Learning policies in robotics** by group 4 (Feraud Elisa, Fanigliulo Sofia, Grandi Francesco) for the *Machine Learning and Deep Learning* course (a.a. 2021/2022).
+This is the implementation of **project 5 - Sim-to-Real transfer of Reinforcement Learning policies in robotics** by group 4 for the *Machine Learning and Deep Learning* course (a.a. 2021/2022).
+
+The main goal of this project is to get familiar with the reinforcement learning paradigm in the context of robotic systems. In particular, the work is based on sim-to-real transfer tasks, leveraging a physics simulator to model the real setup in order to safely train a Reinforcement Learning agent there before deploying it on the real-world environment. It is implemented a uniform domain randomization of dynamics parameters (e.g. masses, friction coefficients), a popular SOTA strategy to learn robust policies that transfer well to the target domain.
+
+
+
+
+
+
+
+
+
+
 
 Each directory contains the implementation of a different algorithm.
 
